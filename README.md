@@ -34,7 +34,7 @@ Run with the `-e`/`--exploit` flag to attempt to exploit a specific vulnerabilit
 traitor -p -e docker:writable-socket
 ```
 
-## Supported Platforms
+## Supported Computer Platforms
 
 Traitor will run on all Unix-like systems, though certain exploits will only function on certain systems.
 
